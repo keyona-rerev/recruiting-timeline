@@ -1,0 +1,7 @@
+{
+  "name": "recruiting-timeline",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Athlete Site Recruiting Timeline Checker Pixie (T032)",
+  "engines": { "node": ">=18" }
+}
